@@ -1,15 +1,15 @@
 {
-  "main.css": "/portfolio-app/static/css/main.a6eea244.chunk.css",
-  "main.js": "/portfolio-app/static/js/main.f62e3e26.chunk.js",
-  "main.js.map": "/portfolio-app/static/js/main.f62e3e26.chunk.js.map",
-  "runtime~main.js": "/portfolio-app/static/js/runtime~main.eaeff955.js",
-  "runtime~main.js.map": "/portfolio-app/static/js/runtime~main.eaeff955.js.map",
-  "static/css/2.de6ee8cd.chunk.css": "/portfolio-app/static/css/2.de6ee8cd.chunk.css",
-  "static/js/2.afd4758a.chunk.js": "/portfolio-app/static/js/2.afd4758a.chunk.js",
-  "static/js/2.afd4758a.chunk.js.map": "/portfolio-app/static/js/2.afd4758a.chunk.js.map",
-  "index.html": "/portfolio-app/index.html",
-  "precache-manifest.03b8555aa32460d92f2fa9bb6199e332.js": "/portfolio-app/precache-manifest.03b8555aa32460d92f2fa9bb6199e332.js",
-  "service-worker.js": "/portfolio-app/service-worker.js",
-  "static/css/2.de6ee8cd.chunk.css.map": "/portfolio-app/static/css/2.de6ee8cd.chunk.css.map",
-  "static/css/main.a6eea244.chunk.css.map": "/portfolio-app/static/css/main.a6eea244.chunk.css.map"
+  "main.css": "/portfolio/static/css/main.a6eea244.chunk.css",
+  "main.js": "/portfolio/static/js/main.63d21336.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.63d21336.chunk.js.map",
+  "runtime~main.js": "/portfolio/static/js/runtime~main.0fad4c0f.js",
+  "runtime~main.js.map": "/portfolio/static/js/runtime~main.0fad4c0f.js.map",
+  "static/css/2.de6ee8cd.chunk.css": "/portfolio/static/css/2.de6ee8cd.chunk.css",
+  "static/js/2.afd4758a.chunk.js": "/portfolio/static/js/2.afd4758a.chunk.js",
+  "static/js/2.afd4758a.chunk.js.map": "/portfolio/static/js/2.afd4758a.chunk.js.map",
+  "index.html": "/portfolio/index.html",
+  "precache-manifest.4c214279c453fbcbefdcd8c1bae2b00d.js": "/portfolio/precache-manifest.4c214279c453fbcbefdcd8c1bae2b00d.js",
+  "service-worker.js": "/portfolio/service-worker.js",
+  "static/css/2.de6ee8cd.chunk.css.map": "/portfolio/static/css/2.de6ee8cd.chunk.css.map",
+  "static/css/main.a6eea244.chunk.css.map": "/portfolio/static/css/main.a6eea244.chunk.css.map"
 }
